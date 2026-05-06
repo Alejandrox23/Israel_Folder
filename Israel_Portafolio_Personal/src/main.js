@@ -1,6 +1,7 @@
 import { createApp } from 'vue'
 import './style.css'
 import App from './App.vue'
+import Router from './router'
 
 //Importaciones de libreria de bootstrap y bootstrap icon
 import 'bootstrap/dist/css/bootstrap.min.css'
